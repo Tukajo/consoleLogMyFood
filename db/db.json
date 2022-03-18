@@ -121,6 +121,83 @@
             "servingSize": "2",
             "calories": 176
           }
+        },
+        {
+          "1647573798324": {
+            "food": "apple",
+            "servingSize": "4",
+            "calories": 352
+          }
+        },
+        {
+          "1647575285896": {
+            "food": "oreos",
+            "servingSize": "4",
+            "calories": 920
+          }
+        },
+        {
+          "1647575294651": {
+            "food": "whole milk",
+            "servingSize": "2",
+            "calories": 480
+          }
+        },
+        {
+          "1647575665185": {
+            "food": "apple",
+            "servingSize": "50",
+            "calories": 4400
+          }
+        },
+        {
+          "1647575672236": {
+            "food": "chicken breast",
+            "servingSize": "20",
+            "calories": 2500
+          }
+        },
+        {
+          "1647575693525": {
+            "food": "cheddar cheese",
+            "servingSize": "10",
+            "calories": 1200
+          }
+        },
+        {
+          "1647575704389": {
+            "food": "lentils",
+            "servingSize": "20",
+            "calories": 4600
+          }
+        },
+        {
+          "1647575711988": {
+            "food": "apple",
+            "servingSize": "20",
+            "calories": 1760
+          }
+        },
+        {
+          "1647575719357": {
+            "food": "whole milk",
+            "servingSize": "10",
+            "calories": 2400
+          }
+        },
+        {
+          "1647575723175": {
+            "food": "ribeye steak",
+            "servingSize": "10",
+            "calories": 5000
+          }
+        },
+        {
+          "1647575739098": {
+            "food": "almonds",
+            "servingSize": "8",
+            "calories": 1312
+          }
         }
       ]
     }
