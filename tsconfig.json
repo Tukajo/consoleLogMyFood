@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "strict": true,
+        "moduleResolution": "Node",
+        "strictNullChecks": true,
+        "noUnusedParameters": true,
+        "noImplicitAny": true,
+        "noImplicitThis": false,
+        "noUnusedLocals": true,
+        "module": "CommonJS",
+        "target": "es2020",
+        "sourceMap": true
+    },
+    "exclude": ["node_modules"]
+}
